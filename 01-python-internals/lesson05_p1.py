@@ -1,7 +1,4 @@
 print ("----------------------------")
-
-total = 0
-count =0
 def avg_marks( marks):
     total = 0
     count =0
@@ -18,8 +15,6 @@ print ("average : ",avg)
  
 #  from previous
 print ("0000000000000000000")
-total = 0
-count =0
 def avg_marks( marks):
     total = 0
     count =0
