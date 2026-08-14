@@ -32,11 +32,6 @@ def get_top_student(students):
             highest = current_avg
             top = student["name"]
     return highest, top
-          
-        
-          
-
-        
 result = print_student_averages(students = [
     {"name": "Dai", "marks": [85, 90, 78]},
     {"name": "Ram", "marks": [42, 55, 48]},
