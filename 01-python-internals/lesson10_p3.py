@@ -11,11 +11,21 @@ def get_positive_integer(prompt):
             print("enter number bro..")
 n = get_positive_integer("enter the number for creating dict:")
 m = get_positive_integer("enter the amount of subject for marks:")
+
+def validation(daam):
+    while True:
+        naam = input(daam)
+
+        if naam and naam.replace(" ", "").isalpha():
+            return naam
+        else:
+            print("Bro, enter a valid name.")
+            
 students = []
 for i in range (n):
     student = {}
     marks = []
-    name = input("enter a name to add: ")
+    name = validation("enter a name to add: ")
             
     for j in range (m):
         while True:
