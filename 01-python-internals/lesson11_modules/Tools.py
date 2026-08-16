@@ -6,3 +6,6 @@ def greet(name):
 def double(number):
     num = number *number
     return num
+
+if __name__ == "__main__":
+     print("omg")
