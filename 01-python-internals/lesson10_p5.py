@@ -10,7 +10,7 @@ def safe_division():
     except ZeroDivisionError:
         print("u are putting zero bro..")
     else: 
-        print (" nice bro u did perfectly")
+        print (" nice bro u did perfectly",c)
         
     finally:
         print("u did great!")
