@@ -37,6 +37,8 @@
 # result = jsonfunction(students)
 # for st in result:
 #     print(f"{st['name']} => {st['marks']}") 
+
+
 # new version
 
 
@@ -76,7 +78,7 @@ for i in range (n):
     students.append(student)
     
 with open("students.json", "w") as file:
-     json.dump(students, file)
+     json.dump(students, file, indent=5)
 
 def student_average(marks):
     total = 0
