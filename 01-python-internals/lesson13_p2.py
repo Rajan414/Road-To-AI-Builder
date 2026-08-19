@@ -8,3 +8,4 @@ students = ["Dai", "Ram", "Sam"]
 
 with open("students.txt", "w") as file:
     file.writelines(students)
+    
