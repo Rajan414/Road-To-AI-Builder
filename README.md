@@ -1,49 +1,61 @@
 # Road to AI Engineer 🚀
-I'm Rajan Dhami and This is
-My journey from Python fundamentals toward building AI systems from scratch.
+
+A structured learning journey from Python fundamentals to building AI systems.
 
 ## 📈 Current Progress
 
-- 🟢 Level 17
-- 🥉 Rank: Python Builder
-- ✅ 17 lessons completed
-- ⏳ Lesson 18 — Next
-- ⭐ Latest rating: 9.3/10
+| Status | Progress |
+|---|---|
+| 🟢 Current Level | **20** |
+| 🥉 Current Rank | **Python Builder** |
+| ✅ Lessons Completed | **20** |
+| ⭐ Latest Rating | **9.4/10** |
+| ⏳ Next | **Lesson 21** |
 
-## 🐍 Completed Foundations
+## 🐍 What I Have Learned
 
-- Python fundamentals
-- Functions and data structures
+### Python Foundations
+- Core Python syntax
+- Variables and data types
+- Conditions and loops
+- Functions
+- Lists, tuples, sets, and dictionaries
 - Exception handling
 - Modules and packages
-- Standard library
 - File handling
-- JSON and persistent data
-- Project structure and refactoring
+- JSON and persistence
 
-## 🧱 OOP Completed
-
+### Object-Oriented Programming
 - Classes and objects
-- `__init__()` and `self`
-- Instance and class attributes
-- Instance and class methods
-- `cls`
-- Encapsulation
-- `__str__()`
 - Inheritance
-- `super()`
-- Method overriding
 - Polymorphism
-- MRO basics
 - Abstract classes
-- `ABC`
-- `@abstractmethod`
 - Composition
-- Composition vs inheritance
 - Dataclasses
 - Type hints
+- Properties and validation
+- Dunder methods
+- Custom exceptions
+- Context managers
 
-## 🏆 Projects
+### Data Structures & Algorithms
+- Stacks and queues
+- LIFO and FIFO
+- Linear search — O(n)
+- Binary search — O(log n)
+- Hashing and dictionary lookup — average O(1)
+- List operation complexity
+- Efficient sorting — O(n log n)
+- Algorithm and data-structure selection
+
+### Sorting
+- `sorted()` creates a new sorted list
+- `.sort()` modifies a list in place
+- Custom sorting using `key=lambda`
+- Descending order using `reverse=True`
+- `max()` vs `sorted()` depending on the problem
+
+## 🏆 Projects Built
 
 - Expense Analyzer
 - Student Analyzer
@@ -54,23 +66,31 @@ My journey from Python fundamentals toward building AI systems from scratch.
 - OOP Student Manager
 - Student Inheritance / Polymorphism Project
 - Advanced OOP Student Design Project
+- Pythonic Student Class Project
+- Student Search System
+- Student Ranking System
 
 ## 🗺️ Roadmap
 
 - ✅ Python Foundations
-- ✅ OOP
-- ⏳ Data Structures
-- ⏳ Algorithms
+- ⏳ Data Structures & Algorithms
 - ⏳ NumPy
 - ⏳ Pandas
 - ⏳ Machine Learning
 - ⏳ Deep Learning
 - ⏳ Transformers
-- ⏳ LLM from Scratch
+- ⏳ LLMs from Scratch
 - ⏳ AI Agents
 
 ## 🎯 Current Goal
 
-Continue from Lesson 18 and progress toward becoming an AI/ML engineer.
+Build a strong Python and algorithmic foundation, then progress into:
 
-Learning one lesson and building one project at a time. 🐍🔥
+**Scientific Python → Machine Learning → Deep Learning → Transformers → LLMs → AI Agents**
+
+## 📍 Current Checkpoint
+
+**Level 20 complete.**  
+**Next: Lesson 21.**
+
+Learning by understanding concepts, writing code, and building projects. 🐍🔥
