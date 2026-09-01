@@ -36,7 +36,13 @@ class linked_list:
                 return True
             current = current.next
         return False
-    
+    def count(self):
+         current = self.head
+         count = 0
+         while current is not None:
+            count = count + 1 
+            current = current.next
+         return count
 my_linked_list = linked_list()
 
 print(my_linked_list.empty())
@@ -46,6 +52,6 @@ my_linked_list.insert_list(20)
 my_linked_list.insert_list(30)
 
 my_linked_list.display()
-
+my_linked_list.count()
 print(my_linked_list.search(20))
 print(my_linked_list.search(99))

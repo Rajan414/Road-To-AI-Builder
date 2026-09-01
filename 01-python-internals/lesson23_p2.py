@@ -27,10 +27,11 @@ class LinkedList:
                current = current.next
         return False
     
-def is_empty(self):
-    if self.head is None:
-        return True
-    return False
+    def is_empty(self):
+           if self.head is None:
+              return True
+           else :
+               return False
 
 my_list = LinkedList()
 my_list.is_empty()
