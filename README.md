@@ -6,15 +6,16 @@ A structured learning journey from Python fundamentals to building AI systems.
 
 | Status | Progress |
 |---|---|
-| 🟢 Current Level | **20** |
+| 🟢 Current Level | **24** |
 | 🥉 Current Rank | **Python Builder** |
-| ✅ Lessons Completed | **20** |
-| ⭐ Latest Rating | **9.4/10** |
-| ⏳ Next | **Lesson 21** |
+| ✅ Lessons Completed | **24** |
+| ⭐ Latest Rating | **9/10** |
+| ⏳ Next | **Lesson 25 — Linked List Reversal & Pointer Manipulation** |
 
 ## 🐍 What I Have Learned
 
 ### Python Foundations
+
 - Core Python syntax
 - Variables and data types
 - Conditions and loops
@@ -26,6 +27,7 @@ A structured learning journey from Python fundamentals to building AI systems.
 - JSON and persistence
 
 ### Object-Oriented Programming
+
 - Classes and objects
 - Inheritance
 - Polymorphism
@@ -39,6 +41,7 @@ A structured learning journey from Python fundamentals to building AI systems.
 - Context managers
 
 ### Data Structures & Algorithms
+
 - Stacks and queues
 - LIFO and FIFO
 - Linear search — O(n)
@@ -47,8 +50,27 @@ A structured learning journey from Python fundamentals to building AI systems.
 - List operation complexity
 - Efficient sorting — O(n log n)
 - Algorithm and data-structure selection
+- Recursion and recursive functions
+- Base cases and recursive cases
+- Call stack concepts
+- Linked lists and nodes
+- Node structure using `data` and `next`
+- The `head` reference
+- Linked-list traversal
+- Searching in a linked list
+- Counting nodes
+- Insert at the beginning
+- Insert at the end
+- Delete the first node
+- Delete the last node
+- Delete a specific value
+- Pointer manipulation
+- Empty-list edge cases
+- One-node edge cases
+- Linked-list traversal complexity — O(n)
 
 ### Sorting
+
 - `sorted()` creates a new sorted list
 - `.sort()` modifies a list in place
 - Custom sorting using `key=lambda`
@@ -69,6 +91,7 @@ A structured learning journey from Python fundamentals to building AI systems.
 - Pythonic Student Class Project
 - Student Search System
 - Student Ranking System
+- Linked List Implementation
 
 ## 🗺️ Roadmap
 
@@ -90,7 +113,8 @@ Build a strong Python and algorithmic foundation, then progress into:
 
 ## 📍 Current Checkpoint
 
-**Level 20 complete.**  
-**Next: Lesson 21.**
+**Level 24 complete.**
+
+**Next: Lesson 25 — Linked List Reversal & Pointer Manipulation.**
 
 Learning by understanding concepts, writing code, and building projects. 🐍🔥
