@@ -43,6 +43,7 @@ class linked_list:
             count = count + 1 
             current = current.next
          return count
+ 
 my_linked_list = linked_list()
 
 print(my_linked_list.empty())

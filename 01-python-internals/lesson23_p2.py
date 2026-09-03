@@ -32,6 +32,13 @@ class LinkedList:
               return True
            else :
                return False
+    def count(self):
+        current = self.head
+        count = 0
+        while current is not None:
+            count = count + 1 
+            current = current.next
+        return count
 
 my_list = LinkedList()
 my_list.is_empty()

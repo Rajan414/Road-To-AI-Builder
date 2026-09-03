@@ -25,7 +25,7 @@ def recursive_sum(numbers):
         return 0
     return numbers[0] + recursive_sum(numbers[1:])
 print(recursive_sum([5, 10, 15, 20]))\
-  
+
   
 def recursive_length(text):
 
@@ -35,3 +35,4 @@ def recursive_length(text):
     return 1 + recursive_length(text[1:])
 
 print(recursive_length("python"))
+
