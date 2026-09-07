@@ -6,11 +6,11 @@ A structured learning journey from Python fundamentals to building AI systems.
 
 | Status | Progress |
 |---|---|
-| 🟢 Current Level | **24** |
+| 🟢 Current Level | **29** |
 | 🥉 Current Rank | **Python Builder** |
-| ✅ Lessons Completed | **24** |
-| ⭐ Latest Rating | **9/10** |
-| ⏳ Next | **Lesson 25 — Linked List Reversal & Pointer Manipulation** |
+| ✅ Lessons Completed | **29** |
+| ⭐ Latest Rating | **Lesson 29 — Complete** |
+| ⏳ Next | **Lesson 30** |
 
 ## 🐍 What I Have Learned
 
@@ -68,6 +68,17 @@ A structured learning journey from Python fundamentals to building AI systems.
 - Empty-list edge cases
 - One-node edge cases
 - Linked-list traversal complexity — O(n)
+- Linked-list reversal
+- Slow and fast pointers
+- Floyd cycle detection
+- Fixed-gap two-pointer technique
+- Finding the Nth node from the end
+- Removing the Nth node from the end
+- Dummy-node technique
+- Merging two sorted linked lists
+- Reusing existing linked-list nodes
+- Two-list merge complexity — O(n + m)
+- Edge-case handling in pointer algorithms
 
 ### Sorting
 
@@ -92,6 +103,7 @@ A structured learning journey from Python fundamentals to building AI systems.
 - Student Search System
 - Student Ranking System
 - Linked List Implementation
+- Linked List Pointer Algorithms Project
 
 ## 🗺️ Roadmap
 
@@ -113,8 +125,8 @@ Build a strong Python and algorithmic foundation, then progress into:
 
 ## 📍 Current Checkpoint
 
-**Level 24 complete.**
+**Level 29 complete.**
 
-**Next: Lesson 25 — Linked List Reversal & Pointer Manipulation.**
+**Next: Lesson 30.**
 
 Learning by understanding concepts, writing code, and building projects. 🐍🔥
