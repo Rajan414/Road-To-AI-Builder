@@ -2,11 +2,11 @@
 
 ## Current Status
 
-- **Level:** 24 🔓
+- **Level:** 29 🔓
 - **Rank:** 🥉 Python Builder
-- **Lessons completed:** 24
-- **Next lesson:** Lesson 25
-- **Latest rating:** Lesson 24 — 9/10
+- **Lessons completed:** 29
+- **Next lesson:** Lesson 30
+- **Latest rating:** Lesson 29 — Complete
 
 ## Completed Milestones
 
@@ -21,6 +21,11 @@
 - Lesson 22 — Recursion & Call Stack — 9.0/10
 - Lesson 23 — Linked Lists & Nodes — 9.2/10
 - Lesson 24 — Linked List Operations — 9/10
+- Lesson 25 — Linked List Reversal & Pointer Manipulation — 9.2/10
+- Lesson 26 — Slow & Fast Pointers — Complete
+- Lesson 27 — Nth Node From the End — Complete
+- Lesson 28 — Remove the Nth Node From the End — Complete
+- Lesson 29 — Merge Two Sorted Linked Lists — Complete
 
 ## Current Skills
 
@@ -78,6 +83,15 @@
 - Pointer manipulation
 - Empty-list and one-node edge cases
 - Linked list traversal complexity — O(n)
+- Slow and fast pointers
+- Floyd cycle detection
+- Fixed-gap two-pointer technique
+- Finding the Nth node from the end
+- Removing the Nth node from the end
+- Dummy-node technique
+- Merging two sorted linked lists
+- Reusing existing linked-list nodes during merge
+- Two-list merge complexity — O(n + m)
 
 ### Sorting
 
@@ -103,6 +117,7 @@
 - Student Search System
 - Student Ranking System
 - Linked List Implementation Project
+- Linked List Pointer Algorithms Project
 
 ## Current Phase
 
@@ -112,6 +127,6 @@
 
 Python Foundations → Data Structures → Algorithms → NumPy/Pandas → Machine Learning → Deep Learning → Transformers → LLMs → AI Agents
 
-**Current checkpoint:** Level 24 complete
+**Current checkpoint:** Level 29 complete
 
-**Next checkpoint:** Lesson 25 — Linked List Reversal & Pointer Manipulation
+**Next checkpoint:** Lesson 30
