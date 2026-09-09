@@ -26,14 +26,18 @@ class BST:
         elif parent.data < value:
                 parent.right = Node(value)
                 
-    def search (self,value):
-        current = self.root
-        while current:
-            if current.data == value:
-                return "found"
-            elif current.data <value:
-                current = current.left
-            else :
-                current = current.right
-                
+    def search(self, value):
+         current = self.root
+
+         while current:
+           if value == current.data:
+            return True
+
+           elif value < current.data:
+            current = current.left
+
+           else:
+            current = current.right
+
+         return False
         
