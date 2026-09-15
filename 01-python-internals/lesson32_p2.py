@@ -1,3 +1,4 @@
+from lesson32_p2 import MinHeap
 class PriorityQueue:
     def __init__(self):
         self.heap = MinHeap()
