@@ -62,3 +62,8 @@ def delete(self, value):
         successor_parent.left = successor.right
     else:
         successor_parent.right = successor.right
+        
+# tree = BST()
+
+# for value in [10, 5, 15, 2, 7, 12, 20]:
+#     tree.insert(value)
